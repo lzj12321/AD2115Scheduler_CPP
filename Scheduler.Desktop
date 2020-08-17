@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Scheduler
+Exec=/home/pi/Documents/Scheduler/SchedulerGUI
+Icon=/home/pi/Documents/Scheduler/icon.jpeg
+Terminal=false
+Type=Application
+
+
+Path=/home/pi/Documents/Scheduler
+GenericName=Scheduler
+Comment[zh_CN]=Scheduler
